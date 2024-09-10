@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me 
 
-I have always been passionate about electronics and computer science. I started developing as a child with the <b>C#</b> language, and from there, my journey began. Currently, I'm working as a Data Engineer.
+I have always been passionate about electronics and computer science. Currently, I'm working as a Data Engineer.
 
 ---
 
