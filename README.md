@@ -1,52 +1,51 @@
-<h1 align="center"> Hi there, I'm Giacomo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+</p>
 
-## 👨🏻‍💻 About Me 
+# 👋 Hi there, I'm **Giacomo**!
 
-I have always been passionate about electronics and computer science. Currently, I'm working as a Data Engineer.
+## 🚀 About Me
 
----
+I'm a passionate **Data Engineer** with a strong love for **electronics**, **embedded systems**, and **computer science**. I enjoy building scalable data pipelines, experimenting with microcontrollers, and bringing ideas to life through code.
 
-## ⚙️ Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Programming Languages & Tools:**
-  - ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-  - ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Big Data & Cloud:**
-  - ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-  - ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### **Data Engineering & Big Data**
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E35A16?style=flat-square&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 
-- **Databases & Tools:**
-  - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-  - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **Version Control:**
-  - ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+### **Databases & BI**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-### 🛠️ AWS Services I'm Experienced With:
-- ![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-- ![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-- ![AWS Batch](https://img.shields.io/badge/AWS_Batch-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+### **Embedded Systems**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
----
+## 🎮 Hobbies & Interests
 
-## 🎯 Hobbies & Interests
-
-- **Embedded Programming:**
-  - ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  - ESP8266 & ESP32
-  - 3D Print
-  
----
-
-📜 **Certifications:**
-
-- Check out my certifications [here](https://www.credly.com/badges/21ebb950-118c-46dc-81a7-80b552478a3c/public_url)!
+- 💡 Embedded Programming (Arduino, ESP8266, ESP32)
+- 🧰 DIY Electronics Projects
+- 🖨️ 3D Printing & CAD Design
+- 🔧 Building Home Automation Systems
+- 🤖 IoT & Sensor Networks
 
 ---
+👉 View my certifications on [Credly](https://www.credly.com/badges/21ebb950-118c-46dc-81a7-80b552478a3c/public_url)!
+<p align="center">✨ <i>Thanks for stopping by!</i> ✨</p>
