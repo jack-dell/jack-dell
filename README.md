@@ -41,6 +41,7 @@ I have always been passionate about electronics and computer science. Currently,
 - **Embedded Programming:**
   - ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   - ESP8266 & ESP32
+  - 3D Print
   
 ---
 
